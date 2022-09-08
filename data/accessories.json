@@ -1,0 +1,12 @@
+[
+    {
+      "id":1,
+      "price": 0,
+      "name": "test",
+      "description": "",
+      "manufacturer": "",
+      "image":"",     
+      "best":true,
+      "stars":0
+    }   
+  ]
