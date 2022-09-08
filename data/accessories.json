@@ -1,12 +1,152 @@
 [
     {
       "id":1,
-      "price": 0,
-      "name": "test",
-      "description": "",
-      "manufacturer": "",
-      "image":"",     
+      "price": 24.99,
+      "name": "MSI Clutch GM20 Elite Gaming Mouse",
+      "description": "400 DPI, 20M+ Clicks OMRON Switch, Optical Sensor, Adjustable Weights, Ergonomic Right Hand Design, RGB Mystic Light",
+      "manufacturer": "MSI",
+      "image":"/assets/dashboard/accessories/1.jpg",
       "best":true,
-      "stars":0
-    }   
+      "stars":4.7
+    },   
+    {
+      "id":2,
+      "price": 15,
+      "name": "SanDisk 128GB",
+      "description": "Ultra microSDXC UHS-I Memory Card with Adapter - 120MB/s, C10, U1, Full HD, A1, Micro SD Card - SDSQUA4-128G-GN6MA",
+      "manufacturer": "ScanDisk",
+      "image":"/assets/dashboard/accessories/2.jpg",
+      "best":false,
+      "stars":4.8
+    },   
+    {
+      "id":3,
+      "price": 12,
+      "name": "Logitech MK270 Wireless Keyboard And Mouse",
+      "description": " For Windows, 2.4 GHz Wireless, Compact Mouse, 8 Multimedia And Shortcut Keys, For PC, Laptop - Black",
+      "manufacturer": "Logitech",
+      "image":"/assets/dashboard/accessories/3.jpg",
+      "best":false,
+      "stars":4.6
+    },   
+    {
+      "id":4,
+      "price": 3,
+      "name": "Apple Lightning to USB Cable",
+      "description": "1 meter",
+      "manufacturer": "Apple",
+      "image":"/assets/dashboard/accessories/4.jpg",
+      "best":false,
+      "stars":4.7
+    },   
+    {
+      "id":5,
+      "price": 23.99,
+      "name": "Logitech H390 Wired Headset",
+      "description": "Stereo Headphones with Noise-Cancelling Microphone, USB, In-Line Controls, PC/Mac/Laptop - Black",
+      "manufacturer": "Logitech",
+      "image":"/assets/dashboard/accessories/5.jpg",
+      "best":true,
+      "stars":4.4
+    },   
+    {
+      "id":6,
+      "price": 14.99,
+      "name": "Logitech MK345 Wireless Keyboard",
+      "description": "Wireless Combo Full-Sized Keyboard with Palm Rest and Comfortable Right-Handed Mouse, 2.4 GHz Wireless USB Receiver",
+      "manufacturer": "Logitech",
+      "image":"/assets/dashboard/accessories/6.jpg",
+      "best":true,
+      "stars":4.5
+    },   
+    {
+      "id":7,
+      "price": 27.99,
+      "name": "SAMSUNG EVO Select Micro SD-Memory-Card",
+      "description": "microSDXC 130MB/s Full HD & 4K UHD, UHS-I, U3, A2, V30, Expanded Storage for Android Smartphones, Tablets, Nintendo-Switch (MB-ME256KA/AM)",
+      "manufacturer": "SAMSUNG",
+      "image":"/assets/dashboard/accessories/7.jpg",
+      "best":true,
+      "stars":4.7
+    },   
+    {
+      "id":8,
+      "price": 19.83,
+      "name": "SanDisk 128GB microSDXC-Card",
+      "description": "Licensed for Nintendo-Switch - SDSQXAO-128G-GNCZN",
+      "manufacturer": "SanDisk",
+      "image":"/assets/dashboard/accessories/8.jpg",
+      "best":false,
+      "stars":4.9
+    },   
+    {
+      "id":9,
+      "price": 5.95,
+      "name": "Amazon 3-Button USB Mouse",
+      "description": "Amazon Basics 3-Button Wired USB Computer Mouse, Black",
+      "manufacturer": "Amazon",
+      "image":"/assets/dashboard/accessories/9.jpg",
+      "best":false,
+      "stars":4.6
+    },   
+    {
+      "id":10,
+      "price": 39.99,
+      "name": "VIVO Dual Monitor Desk Mount",
+      "description": "Heavy Duty Fully Adjustable Stand, Fits 2 LCD LED Screens up to 30 inches, Black, STAND-V002",
+      "manufacturer": "VIVO",
+      "image":"/assets/dashboard/accessories/10.jpg",
+      "best":false,
+      "stars":4.6
+    },   
+    {
+      "id":11,
+      "price": 58.49,
+      "name": "Brother Genuine High Yield Toner Cartridge",
+      "description": "TN660, Replacement Black Toner, Page Yield Up To 2,600 Pages, Amazon Dash Replenishment Cartridge,1 Pack",
+      "manufacturer": "Brother",
+      "image":"/assets/dashboard/accessories/11.jpg",
+      "best":false,
+      "stars":4.7
+    },   
+    {
+      "id":12,
+      "price": 16.99,
+      "name": "SmartQ C368 USB 3.0 SD Card Reader",
+      "description": " Plug N Play, Apple and Windows Compatible, Powered by USB, Supports CF/SD/SDHC/SCXC/MMC/MMC Micro, etc.",
+      "manufacturer": "SmartQ",
+      "image":"/assets/dashboard/accessories/12.jpg",
+      "best":true,
+      "stars":4.5
+    },   
+    {
+      "id":13,
+      "price": 24.99,
+      "name": "MSI Clutch GM20 Elite Gaming Mouse",
+      "description": "6400 DPI, 20M+ Clicks OMRON Switch, Optical Sensor, Adjustable Weights, Ergonomic Right Hand Design, RGB Mystic Light",
+      "manufacturer": "MSI Clutch",
+      "image":"/assets/dashboard/accessories/13.jpg",
+      "best":false,
+      "stars":4.7
+    },   
+    {
+      "id":14,
+      "price": 9.34,
+      "name": "Amazon Wireless PC Mouse",
+      "description": "Amazon Basics Ergonomic Wireless PC Mouse - DPI adjustable - Black",
+      "manufacturer": "Amazon",
+      "image":"/assets/dashboard/accessories/14.jpg",
+      "best":false,
+      "stars":4.4
+    },   
+    {
+      "id":15,
+      "price": 129.78,
+      "name": "SteelSeries Wireless Gaming Headset",
+      "description": "SteelSeries Arctis 7P+ Wireless Gaming Headset – Lossless 2.4 GHz – 30 Hour Battery Life – USB-C – 3D Audio – For PS5, PS4, PC, Mac, Android and Switch - White",
+      "manufacturer": "SteelSeries",
+      "image":"/assets/dashboard/accessories/15.jpg",
+      "best":false,
+      "stars":4.5
+    }
   ]
