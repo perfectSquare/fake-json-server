@@ -7,6 +7,7 @@
       "manufacturer": "MSI",
       "image":"/assets/dashboard/accessories/1.jpg",
       "best":true,
+      "stock":10,
       "stars":4.7
     },   
     {
@@ -17,6 +18,7 @@
       "manufacturer": "ScanDisk",
       "image":"/assets/dashboard/accessories/2.jpg",
       "best":false,
+      "stock":3,
       "stars":4.8
     },   
     {
@@ -27,6 +29,7 @@
       "manufacturer": "Logitech",
       "image":"/assets/dashboard/accessories/3.jpg",
       "best":false,
+      "stock":5,
       "stars":4.6
     },   
     {
@@ -37,6 +40,7 @@
       "manufacturer": "Apple",
       "image":"/assets/dashboard/accessories/4.jpg",
       "best":false,
+      "stock":23,
       "stars":4.7
     },   
     {
@@ -47,6 +51,7 @@
       "manufacturer": "Logitech",
       "image":"/assets/dashboard/accessories/5.jpg",
       "best":true,
+      "stock":0,
       "stars":4.4
     },   
     {
@@ -57,6 +62,7 @@
       "manufacturer": "Logitech",
       "image":"/assets/dashboard/accessories/6.jpg",
       "best":true,
+      "stock":40,
       "stars":4.5
     },   
     {
@@ -67,6 +73,7 @@
       "manufacturer": "SAMSUNG",
       "image":"/assets/dashboard/accessories/7.jpg",
       "best":true,
+      "stock":32,
       "stars":4.7
     },   
     {
@@ -77,6 +84,7 @@
       "manufacturer": "SanDisk",
       "image":"/assets/dashboard/accessories/8.jpg",
       "best":false,
+      "stock":2,
       "stars":4.9
     },   
     {
@@ -87,6 +95,7 @@
       "manufacturer": "Amazon",
       "image":"/assets/dashboard/accessories/9.jpg",
       "best":false,
+      "stock":8,
       "stars":4.6
     },   
     {
@@ -97,6 +106,7 @@
       "manufacturer": "VIVO",
       "image":"/assets/dashboard/accessories/10.jpg",
       "best":false,
+      "stock":3,
       "stars":4.6
     },   
     {
@@ -107,6 +117,7 @@
       "manufacturer": "Brother",
       "image":"/assets/dashboard/accessories/11.jpg",
       "best":false,
+      "stock":33,
       "stars":4.7
     },   
     {
@@ -117,6 +128,7 @@
       "manufacturer": "SmartQ",
       "image":"/assets/dashboard/accessories/12.jpg",
       "best":true,
+      "stock":17,
       "stars":4.5
     },   
     {
@@ -127,6 +139,7 @@
       "manufacturer": "MSI Clutch",
       "image":"/assets/dashboard/accessories/13.jpg",
       "best":false,
+      "stock":1,
       "stars":4.7
     },   
     {
@@ -137,6 +150,7 @@
       "manufacturer": "Amazon",
       "image":"/assets/dashboard/accessories/14.jpg",
       "best":false,
+      "stock":42,
       "stars":4.4
     },   
     {
@@ -147,6 +161,7 @@
       "manufacturer": "SteelSeries",
       "image":"/assets/dashboard/accessories/15.jpg",
       "best":false,
+      "stock":23,
       "stars":4.5
     }
   ]

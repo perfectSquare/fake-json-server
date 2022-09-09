@@ -1,10 +1,12 @@
 const accessories = require("./data/accessories");
+const laptops = require("./data/laptops");
 const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 
 module.exports = {
   accessories,
+  laptops,
   tags,
   brands,
   itemTypes
