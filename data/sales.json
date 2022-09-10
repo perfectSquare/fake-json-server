@@ -1,0 +1,19 @@
+[
+    {
+      "id":1,
+      "sale": 3402,
+      "date": "01-05-2022",      
+      "howMany":18,
+      "profit": 135,
+      "expenses": 12
+    },
+    {
+        "id":1,
+        "sale": 1442,
+        "date": "02-05-2022",      
+        "howMany":8,
+        "profit": 44,
+        "expenses": 6
+      }
+]
+  
