@@ -1,0 +1,167 @@
+[
+    {
+      "id":1,
+      "price": 174,
+      "name": "Apricorn Flash Drive",
+      "description": "120GB Aegis Secure Key FIPS 140-2 Level 3 Validated 256-bit Encryption USB 3.0 Flash Drive (ASK3-120GB)",
+      "manufacturer": "Apricorn",
+      "image":"/assets/dashboard/storage/1.jpg",
+      "best":false,
+      "stock": 77,
+      "stars": 4.5
+    },  
+    {
+        "id":2,
+        "price": 299.99,
+        "name": "Seagate IronWolf Internal Hard Drive",
+        "description": "Seagate IronWolf Pro 16TB NAS Internal Hard Drive HDD – CMR 3.5 Inch SATA 6GB/S 7200 RPM 256MB Cache for Raid Network Attached Storage, Data Recovery Rescue Service (ST16000NE000)",
+        "manufacturer": "Seagate",
+        "image":"/assets/dashboard/storage/2.jpg",
+        "best":false,
+        "stock": 20,
+        "stars": 4.6
+      },  
+      {
+        "id":3,
+        "price": 99.99,
+        "name": "SAMSUNG Hard Drive",
+        "description": "SAMSUNG 870 EVO SATA III SSD 1TB 2.5” Internal Solid State Hard Drive, Upgrade PC or Laptop Memory and Storage for IT Pros, Creators, Everyday Users, MZ-77E1T0B/AM",
+        "manufacturer": "SAMSUNG",
+        "image":"/assets/dashboard/storage/3.jpg",
+        "best":false,
+        "stock": 30,
+        "stars": 4.3
+      },  
+      {
+        "id":4,
+        "price": 15.29,
+        "name": "SanDisk 128GB Ultra Flair USB",
+        "description": "SanDisk 128GB Ultra Flair USB 3.0 Flash Drive - SDCZ73-128G-G46",
+        "manufacturer": "SanDisk",
+        "image":"/assets/dashboard/storage/4.jpg",
+        "best":true,
+        "stock": 34,
+        "stars": 4.7
+      },  
+      {
+        "id":5,
+        "price": 104.99,
+        "name": "WD 5TB External Hard Drive",
+        "description": "WD 5TB Elements Portable External Hard Drive HDD, USB 3.0, Compatible with PC, Mac, PS4 & Xbox - WDBU6Y0050BBK-WESN",
+        "manufacturer": "WD",
+        "image":"/assets/dashboard/storage/5.jpg",
+        "best":false,
+        "stock": 0,
+        "stars": 4.7
+      },  
+      {
+        "id":6,
+        "price": 129,
+        "name": "SanDisk 1TB Extreme Portable SSD",
+        "description": " Up to 1050MB/s - USB-C, USB 3.2 Gen 2 - External Solid State Drive - SDSSDE61-1T00-G25",
+        "manufacturer": "SanDisk",
+        "image":"/assets/dashboard/storage/6.jpg",
+        "best":true,
+        "stock": 20,
+        "stars": 4.9
+      },  
+      {
+        "id":7,
+        "price": 75.99,
+        "name": "Crucial MX500 Internal SSD",
+        "description": "Crucial MX500 1TB 3D NAND SATA 2.5 Inch Internal SSD, up to 560MB/s - CT1000MX500SSD1",
+        "manufacturer": "Crucial",
+        "image":"/assets/dashboard/storage/7.jpg",
+        "best":false,
+        "stock": 20,
+        "stars": 4.2
+      },  
+      {
+        "id":8,
+        "price": 299.99,
+        "name": "Synology DiskStation",
+        "description": "Synology 2 bay NAS DiskStation DS220+ (Diskless)",
+        "manufacturer": "Synology",
+        "image":"/assets/dashboard/storage/8.jpg",
+        "best":true,
+        "stock": 20,
+        "stars": 4.6
+      },  
+      {
+        "id":9,
+        "price": 174,
+        "name": "Apricorn 120GB Flash Drive",
+        "description": "Aegis Secure Key FIPS 140-2 Level 3 Validated 256-bit Encryption USB 3.0 Flash Drive (ASK3-120GB)",
+        "manufacturer": "Apricorn",
+        "image":"/assets/dashboard/storage/9.jpg",
+        "best":false,
+        "stock": 30,
+        "stars": 4.7
+      },  
+      {
+        "id":10,
+        "price": 17.50,
+        "name": "SanDisk Dual Drive USB",
+        "description": "SanDisk 128GB Ultra Dual Drive USB Type-C - USB-C, USB 3.1 - SDDDC2-128G-G46",
+        "manufacturer": "SanDisk",
+        "image":"/assets/dashboard/storage/10.jpg",
+        "best":false,
+        "stock": 34,
+        "stars": 4.3
+      },  
+      {
+        "id":11,
+        "price": 99.99,
+        "name": "SanDisk Dual Drive USB",
+        "description": "SanDisk 1TB Ultra Dual Drive Luxe USB Type-C - SDDDC4-1T00-G46",
+        "manufacturer": "SanDisk",
+        "image":"/assets/dashboard/storage/11.jpg",
+        "best":false,
+        "stock": 10,
+        "stars": 4.7
+      },  
+      {
+        "id":12,
+        "price": 59.99,
+        "name": "SanDisk iXpand Flash Drive",
+        "description": "SanDisk 256GB iXpand Flash Drive Luxe for iPhone and USB Type-C Devices - SDIX70N-256G-GN6NE",
+        "manufacturer": "SanDisk",
+        "image":"/assets/dashboard/storage/12.jpg",
+        "best":true,
+        "stock": 43,
+        "stars": 4.6
+      },  
+      {
+        "id":13,
+        "price": 129.99,
+        "name": "WD 5TB External Hard Drive",
+        "description": "WD 5TB My Passport Ultra Blue Portable External Hard Drive HDD, USB-C and USB 3.1 Compatible - WDBFTM0050BBL-WESN",
+        "manufacturer": "WD",
+        "image":"/assets/dashboard/storage/13.jpg",
+        "best":false,
+        "stock": 3,
+        "stars": 4.6
+      },  
+      {
+        "id":14,
+        "price": 19.99,
+        "name": "SAMSUNG Type-C USB",
+        "description": "SAMSUNG Type-C USB Flash Drive, 128GB, Transfers 4GB Files in 11 Secs w/ Up to 400MB/s 3.13 Read Speeds, Compatible w/ USB 3.0 / 2.0, Waterproof, 2022",
+        "manufacturer": "SAMSUNG",
+        "image":"/assets/dashboard/storage/14.jpg",
+        "best":false,
+        "stock": 40,
+        "stars": 4.9
+      },  
+      {
+        "id":15,
+        "price": 0,
+        "name": "SanDisk 256GB USB",
+        "description": "SanDisk 256GB Ultra Dual Drive Go USB Type-C Flash Drive, Black - SDDDC3-256G-G46",
+        "manufacturer": "SanDisk",
+        "image":"/assets/dashboard/storage/15.jpg",
+        "best":false,
+        "stock": 50,
+        "stars": 4.5
+      }                            
+]
