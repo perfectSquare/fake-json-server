@@ -15,7 +15,7 @@
         "howMany":4,
         "profit": 34,
         "expenses": 3,
-        "h":"h-7.5"
+        "h":"_h-7"
       },
       {
         "id":3,
@@ -42,7 +42,7 @@
         "howMany":3,
         "profit": 8,
         "expenses": 2,
-        "h":"h-2.5"
+        "h":"_h-2"
       },
       {
         "id":6,
@@ -51,7 +51,7 @@
         "howMany":7,
         "profit": 38,
         "expenses": 7,
-        "h":"h-17.5"
+        "h":"_h-17"
       },
       {
         "id":7,
@@ -60,7 +60,7 @@
         "howMany":5,
         "profit": 41,
         "expenses": 8,
-        "h":"h-15.5"
+        "h":"_h-15"
       },
       {
         "id":8,
@@ -78,7 +78,7 @@
         "howMany":2,
         "profit": 14,
         "expenses": 2,
-        "h":"h-3.5"
+        "h":"_h-3"
       },
       {
         "id":10,
@@ -87,7 +87,7 @@
         "howMany":6,
         "profit": 40,
         "expenses": 12,
-        "h":"h-6.5"
+        "h":"_h-6"
       },
       {
         "id":11,
@@ -96,7 +96,7 @@
         "howMany":10,
         "profit": 32,
         "expenses": 10,
-        "h":"h-9.5"
+        "h":"_h-9"
       },
       {
         "id":11,
@@ -105,7 +105,7 @@
         "howMany":5,
         "profit": 19,
         "expenses": 5,
-        "h":"h-3.5"
+        "h":"_h-3"
       },
       {
         "id":12,
@@ -123,7 +123,7 @@
         "howMany":4,
         "profit": 23,
         "expenses": 7,
-        "h":"h-9.5"
+        "h":"_h-9"
       },
       {
         "id":14,
