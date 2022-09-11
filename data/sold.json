@@ -2,16 +2,833 @@
     {
       "id":1,
       "item": "MSI Clutch GM20 Elite Gaming Mouse",
-      "date": "2022-05-03",      
+      "price": 24.99,
+      "date": "2022-05-01",      
       "soldId":1,
       "type":"accessory"     
     },
     {
-        "id":1,
+        "id":2,
         "item": "MSI GV15 Gaming Laptop",
-        "date": "2022-05-22",      
+        "price": 686.89,
+        "date": "2022-05-01",      
         "soldId":3,
         "type":"laptop"      
+      },
+      {
+        "id":3,
+        "item": "HP M27ha FHD Monitor-Full HD Monitor",
+        "price": 216.76,
+        "date": "2022-05-01",      
+        "soldId":6,
+        "type":"monitor"      
+      },
+      {
+        "id":4,
+        "item": "WD 5TB External Hard Drive",
+        "price": 104.99,
+        "date": "2022-05-01",      
+        "soldId":5,
+        "type":"storage"      
+      },
+      {
+        "id":5,
+        "item": "ASUS ROG Strix Scar 15 (2022) Gaming Laptop",
+        "price": 689,
+        "date": "2022-05-01",      
+        "soldId":7,
+        "type":"laptop"      
+      },
+      {
+        "id":6,
+        "item": "Logitech MK345 Wireless Keyboard",
+        "price": 14.99,
+        "date": "2022-05-01",      
+        "soldId":6,
+        "type":"accessory"      
+      },
+      {
+        "id":7,
+        "item": "VIVO Dual Monitor Desk Mount",
+        "price": 39.99,
+        "date": "2022-05-01",      
+        "soldId":10,
+        "type":"accessory"      
+      },
+      {
+        "id":8,
+        "item": "Synology DiskStation",
+        "price": 299.99,
+        "date": "2022-05-01",      
+        "soldId":8,
+        "type":"storage"
+      },      
+      {
+        "id":9,
+        "item": "Acer Aspire 5 A515-56-32DK Slim Laptop",
+        "price": 285,
+        "date": "2022-05-02",      
+        "soldId":10,
+        "type":"laptop"
+      },
+      {
+        "id":10,
+        "item": "SanDisk Dual Drive USB",
+        "price": 99.99,
+        "date": "2022-05-02",      
+        "soldId":11,
+        "type":"storage"
+      },
+      {
+        "id":11,
+        "item": "SteelSeries Wireless Gaming Headset",
+        "price": 129.78,
+        "date": "2022-05-02",      
+        "soldId":15,
+        "type":"accessory"
+      },
+      {
+        "id":12,
+        "item": "ViewSonic 32 Inch",
+        "price": 199.70,
+        "date": "2022-05-02",      
+        "soldId":13,
+        "type":"monitor"
+      },
+      {
+        "id":13,
+        "item": "Lenovo IdeaPad 3 11 Chromebook Laptop",
+        "price": 109.70,
+        "date": "2022-05-03",      
+        "soldId": 4,
+        "type":"laptop"
+      },
+      {
+        "id":14,
+        "item": "WD 5TB External Hard Drive",
+        "price": 104.99,
+        "date": "2022-05-03",      
+        "soldId": 5,
+        "type":"storage"
+      },
+      {
+        "id":15,
+        "item": "BenQ MOBIUZ EX240N",
+        "price": 179.99,
+        "date": "2022-05-03",      
+        "soldId": 8,
+        "type":"monitor"
+      },
+      {
+        "id":16,
+        "item": "Synology DiskStation",
+        "price": 299.99,
+        "date": "2022-05-03",      
+        "soldId": 8,
+        "type":"storage"
+      },
+      {
+        "id":17,
+        "item": "Amazon 3-Button USB Mouse",
+        "price": 5.95,
+        "date": "2022-05-03",      
+        "soldId": 9,
+        "type":"accessory"
+      },
+      {
+        "id":18,
+        "item": "Logitech H390 Wired Headset",
+        "price": 23.99,
+        "date": "2022-05-03",      
+        "soldId": 5,
+        "type":"accessory"
+      },
+      {
+        "id":19,
+        "item": "Lenovo IdeaPad 3 11 Chromebook Laptop",
+        "price": 109.70,
+        "date": "2022-05-04",      
+        "soldId": 4,
+        "type":"laptop"
+      },
+      {
+        "id":20,
+        "item": "SAMSUNG EVO Select Micro SD-Memory-Card",
+        "price": 27.99,
+        "date": "2022-05-04",      
+        "soldId": 7,
+        "type":"accessory"
+      },
+      {
+        "id":21,
+        "item": "Dell Inspiron 3583 Laptop",
+        "price": 330,
+        "date": "2022-05-04",      
+        "soldId": 8,
+        "type":"laptop"
+      },
+      {
+        "id":22,
+        "item": "LG 32ML600M-B",
+        "price": 249.99,
+        "date": "2022-05-04",      
+        "soldId": 11,
+        "type":"monitor"
+      },
+      {
+        "id":23,
+        "item": "HP M27ha FHD Monitor-Full HD Monitor",
+        "price": 216.76,
+        "date": "2022-05-04",      
+        "soldId": 6,
+        "type":"monitor"
+      },
+      {
+        "id":24,
+        "item": "SanDisk Dual Drive USB",
+        "price": 99.99,
+        "date": "2022-05-04",      
+        "soldId": 11,
+        "type":"storage"
+      },
+      {
+        "id":25,
+        "item": "ROG Strix G10 Gaming Desktop PC",
+        "price": 1096.84,
+        "date": "2022-05-04",      
+        "soldId": 11,
+        "type":"laptop"
+      },
+      {
+        "id":26,
+        "item": "WD 5TB External Hard Drive",
+        "price": 104.99,
+        "date": "2022-05-04",      
+        "soldId": 5,
+        "type":"storage"
+      },
+      {
+        "id":27,
+        "item": "MSI Clutch GM20 Elite Gaming Mouse",
+        "price": 24.99,
+        "date": "2022-05-04",      
+        "soldId": 1,
+        "type":"accessory"
+      },
+      {
+        "id":28,
+        "item": "SanDisk 128GB microSDXC-Card",
+        "price": 19.83,
+        "date": "2022-05-04",      
+        "soldId": 8,
+        "type":"accessory"
+      },
+      {
+        "id":29,
+        "item": "Sceptre Curved",
+        "price": 161.09,
+        "date": "2022-05-04",      
+        "soldId": 12,
+        "type":"laptop"
+      },
+      {
+        "id":30,
+        "item": "SanDisk Dual Drive USB",
+        "price": 17.50,
+        "date": "2022-05-04",      
+        "soldId": 10,
+        "type":"storage"
+      },
+      {
+        "id":31,
+        "item": "WD 5TB External Hard Drive",
+        "price": 129.99,
+        "date": "2022-05-05",      
+        "soldId": 13,
+        "type":"storage"
+      },
+      {
+        "id":32,
+        "item": "Lenovo IdeaPad 3 11 Chromebook Laptop",
+        "price": 109.70,
+        "date": "2022-05-05",      
+        "soldId": 4,
+        "type":"laptop"
+      },
+      {
+        "id":33,
+        "item": "SanDisk 128GB",
+        "price": 15,
+        "date": "2022-05-05",      
+        "soldId": 2,
+        "type":"accessory"
+      },
+      {
+        "id":34,
+        "item": "Logitech MK345 Wireless Keyboard",
+        "price": 14.99,
+        "date": "2022-05-06",
+        "soldId": 6,
+        "type":"accessory"
+      },
+      {
+        "id":35,
+        "item": "ASUS ROG Strix Scar 15 (2022) Gaming Laptop",
+        "price": 689,
+        "date": "2022-05-06",
+        "soldId": 7,
+        "type":"laptop"
+      },
+      {
+        "id":36,
+        "item": "ViewSonic 32 Inch",
+        "price": 199.70,
+        "date": "2022-05-06",
+        "soldId": 13,
+        "type":"monitor"
+      },
+      {
+        "id":37,
+        "item": "Amazon 3-Button USB Mouse",
+        "price": 5.95,
+        "date": "2022-05-06",
+        "soldId": 9,
+        "type":"accessory"
+      },
+      {
+        "id":38,
+        "item": "SanDisk Dual Drive USB",
+        "price": 17.50,
+        "date": "2022-05-06",
+        "soldId": 10,
+        "type":"storage"
+      },
+      {
+        "id":39,
+        "item": "SanDisk 1TB Extreme Portable SSD",
+        "price": 129,
+        "date": "2022-05-06",
+        "soldId": 6,
+        "type":"storage"
+      },
+      {
+        "id":40,
+        "item": "MSI GV15 Gaming Laptop",
+        "price": 686.89,
+        "date": "2022-05-06",
+        "soldId": 3,
+        "type":"laptop"
+      },
+      {
+        "id":41,
+        "item": "Synology DiskStation",
+        "price": 299.99,
+        "date": "2022-05-07",
+        "soldId": 8,
+        "type":"storage"
+      },
+      {
+        "id":42,
+        "item": "Acer Nitro 5 AN515-57-79TD Gaming Laptop",
+        "price": 789.99,
+        "date": "2022-05-07",
+        "soldId": 6,
+        "type":"laptop"
+      },
+      {
+        "id":43,
+        "item": "Brother Genuine High Yield Toner Cartridge",
+        "price": 58.49,
+        "date": "2022-05-07",
+        "soldId": 11,
+        "type":"accessory"
+      },
+      {
+        "id":44,
+        "item": "Acer EZ321Q",
+        "price": 199.99,
+        "date": "2022-05-07",
+        "soldId": 3,
+        "type":"monitor"
+      },
+      {
+        "id":45,
+        "item": "HP M27ha FHD Monitor-Full HD Monitor",
+        "price": 216.76,
+        "date": "2022-05-07",
+        "soldId": 6,
+        "type":"monitor"
+      },
+
+
+
+
+
+      {
+        "id":46,
+        "item": "Lenovo IdeaPad 3 11 Chromebook Laptop",
+        "price": 109.70,
+        "date": "2022-05-08",
+        "soldId": 4,
+        "type":"laptop"
+      },
+      {
+        "id":47,
+        "item": "Sceptre 27-Inch FHD",
+        "price": 149.97,
+        "date": "2022-05-08",
+        "soldId": 7,
+        "type":"monitor"
+      },
+      {
+        "id":48,
+        "item": "Logitech MK345 Wireless Keyboard",
+        "price": 14.99,
+        "date": "2022-05-08",
+        "soldId": 6,
+        "type":"accessory"
+      },
+      {
+        "id":49,
+        "item": "SanDisk 1TB Extreme Portable SSD",
+        "price": 129,
+        "date": "2022-05-08",
+        "soldId": 6,
+        "type":"storage"
+      },
+      {
+        "id":50,
+        "item": "Apricorn 120GB Flash Drive",
+        "price": 174,
+        "date": "2022-05-08",
+        "soldId": 9,
+        "type":"storage"
+      },
+      {
+        "id":51,
+        "item": "Samsung Chromebook 4",
+        "price": 149.99,
+        "date": "2022-05-08",
+        "soldId": 9,
+        "type":"laptop"
+      },
+      {
+        "id":52,
+        "item": "SanDisk Dual Drive USB",
+        "price": 99.99,
+        "date": "2022-05-08",
+        "soldId": 11,
+        "type":"storage"
+      },
+      {
+        "id":53,
+        "item": "HP 24mh FHD Monitor",
+        "price": 208.99,
+        "date": "2022-05-08",
+        "soldId": 4,
+        "type":"monitor"
+      },
+      {
+        "id":54,
+        "item": "AOC G2490VX",
+        "price": 139.99,
+        "date": "2022-05-08",
+        "soldId": 10,
+        "type":"monitor"
+      },
+      {
+        "id":55,
+        "item": "SanDisk 128GB",
+        "price": 15,
+        "date": "2022-05-08",
+        "soldId": 2,
+        "type":"accessory"
+      },
+      {
+        "id":56,
+        "item": "SanDisk 128GB",
+        "price": 15,
+        "date": "2022-05-08",
+        "soldId": 2,
+        "type":"accessory"
+      },
+      {
+        "id":57,
+        "item": "SanDisk 1TB Extreme Portable SSD",
+        "price": 129,
+        "date": "2022-05-08",
+        "soldId": 6,
+        "type":"storage"
+      },
+      {
+        "id":58,
+        "item": "Acer SB220Q bi",
+        "price": 99.99,
+        "date": "2022-05-08",
+        "soldId": 5,
+        "type":"monitor"
+      },
+      {
+        "id":59,
+        "item": "Logitech H390 Wired Headset",
+        "price": 23.99,
+        "date": "2022-05-08",
+        "soldId": 5,
+        "type":"accessory"
+      },
+      {
+        "id":60,
+        "item": "SanDisk 128GB microSDXC-Card",
+        "price": 19.83,
+        "date": "2022-05-08",
+        "soldId": 8,
+        "type":"accessory"
+      },
+      {
+        "id":61,
+        "item": "VIVO Dual Monitor Desk Mount",
+        "price": 39.99,
+        "date": "2022-05-09",
+        "soldId": 10,
+        "type":"accessory"
+      },
+      {
+        "id":62,
+        "item": "Synology DiskStation",
+        "price": 299.99,
+        "date": "2022-05-09",
+        "soldId": 8,
+        "type":"storage"
+      },         
+      {
+        "id":62,
+        "item": "Lenovo IdeaPad 3 11 Chromebook Laptop",
+        "price": 109.70,
+        "date": "2022-05-10",
+        "soldId": 4,
+        "type":"laptop"
+      },
+      {
+        "id":63,
+        "item": "Dell Inspiron 3583 Laptop",
+        "price": 330,
+        "date": "2022-05-10",
+        "soldId": 8,
+        "type":"laptop"
+      },
+      {
+        "id":64,
+        "item": "SmartQ C368 USB 3.0 SD Card Reader",
+        "price": 16.99,
+        "date": "2022-05-10",
+        "soldId": 12,
+        "type":"accessory"
+      },
+      {
+        "id":65,
+        "item": "SAMSUNG EVO Select Micro SD-Memory-Card",
+        "price": 27.99,
+        "date": "2022-05-10",
+        "soldId": 7,
+        "type":"accessory"
+      },
+      {
+        "id":66,
+        "item": "BenQ MOBIUZ EX240N",
+        "price": 179.99,
+        "date": "2022-05-10",
+        "soldId": 8,
+        "type":"monitor"
+      },
+      {
+        "id":67,
+        "item": "SanDisk Dual Drive USB",
+        "price": 17.50,
+        "date": "2022-05-10",
+        "soldId": 10,
+        "type":"storage"
+      },
+
+
+
+
+      {
+        "id":68,
+        "item": "WD 5TB External Hard Drive",
+        "price": 129.99,
+        "date": "2022-05-11",
+        "soldId": 13,
+        "type":"storage"
+      },
+      {
+        "id":69,
+        "item": "Apple Lightning to USB Cable",
+        "price": 3,
+        "date": "2022-05-11",
+        "soldId": 4,
+        "type":"accessory"
+      },
+      {
+        "id":70,
+        "item": "Acer Aspire 5 A515-56-32DK Slim Laptop",
+        "price": 285,
+        "date": "2022-05-11",
+        "soldId": 10,
+        "type":"laptop"
+      },
+      {
+        "id":71,
+        "item": "SanDisk 256GB USB",
+        "price": 34.99,
+        "date": "2022-05-11",
+        "soldId": 15,
+        "type":"storage"
+      },
+      {
+        "id":72,
+        "item": "SAMSUNG EVO Select Micro SD-Memory-Card",
+        "price": 27,
+        "date": "2022-05-11",
+        "soldId": 7,
+        "type":"accessory"
+      },
+      {
+        "id":73,
+        "item": "Apricorn 120GB Flash Drive",
+        "price": 174,
+        "date": "2022-05-11",
+        "soldId": 9,
+        "type":"storage"
+      },
+      {
+        "id":74,
+        "item": "ASUS Laptop L210",
+        "price": 239.99,
+        "date": "2022-05-11",
+        "soldId": 13,
+        "type":"laptop"
+      },
+      {
+        "id":75,
+        "item": "WD 5TB External Hard Drive",
+        "price": 104.99,
+        "date": "2022-05-11",
+        "soldId": 5,
+        "type":"storage"
+      },
+      {
+        "id":76,
+        "item": "VIVO Dual Monitor Desk Mount",
+        "price": 39.99,
+        "date": "2022-05-11",
+        "soldId": 10,
+        "type":"accessory"
+      },
+      {
+        "id":77,
+        "item": "MSI Clutch GM20 Elite Gaming Mouse",
+        "price": 24,
+        "date": "2022-05-11",
+        "soldId": 13,
+        "type":"accessory"
+      },
+      {
+        "id":78,
+        "item": "ASUS Chromebook Laptop",
+        "price": 129.99,
+        "date": "2022-05-12",
+        "soldId": 15,
+        "type":"laptop"
+      },
+      {
+        "id":79,
+        "item": "Acer SB220Q bi",
+        "price": 99.99,
+        "date": "2022-05-12",
+        "soldId": 5,
+        "type":"monitor"
+      },
+      {
+        "id":80,
+        "item": "Logitech H390 Wired Headset",
+        "price": 23.99,
+        "date": "2022-05-12",
+        "soldId": 5,
+        "type":"accessory"
+      },
+      {
+        "id":81,
+        "item": "SAMSUNG EVO Select Micro SD-Memory-Card",
+        "price": 27.99,
+        "date": "2022-05-12",
+        "soldId": 7,
+        "type":"accessory"
+      },
+      {
+        "id":82,
+        "item": "Crucial MX500 Internal SSD",
+        "price": 75.99,
+        "date": "2022-05-12",
+        "soldId": 7,
+        "type":"storage"
+      },
+      {
+        "id":83,
+        "item": "Apricorn 120GB Flash Drive",
+        "price": 174,
+        "date": "2022-05-13",
+        "soldId": 9,
+        "type":"storage"
+      },
+      {
+        "id":84,
+        "item": "Logitech H390 Wired Headset",
+        "price": 23.99,
+        "date": "2022-05-13",
+        "soldId": 5,
+        "type":"accessory"
+      },
+      {
+        "id":85,
+        "item": "Acer Aspire 5 A515-56-32DK Slim Laptop",
+        "price": 285,
+        "date": "2022-05-13",
+        "soldId": 10,
+        "type":"laptop"
+      },
+      {
+        "id":86,
+        "item": "SAMSUNG Hard Drive",
+        "price": 99.99,
+        "date": "2022-05-13",
+        "soldId": 3,
+        "type":"storage"
+      },
+      {
+        "id":87,
+        "item": "HP 17 Laptop PC",
+        "price": 395,
+        "date": "2022-05-13",
+        "soldId": 12,
+        "type":"laptop"
+      },
+      {
+        "id":88,
+        "item": "SAMSUNG EVO Select Micro SD-Memory-Card",
+        "price": 27.99,
+        "date": "2022-05-13",
+        "soldId": 7,
+        "type":"accessory"
+      },
+      {
+        "id":89,
+        "item": "Sceptre Curved",
+        "price": 119.99,
+        "date": "2022-05-13",
+        "soldId": 9,
+        "type":"monitor"
+      },
+      {
+        "id":90,
+        "item": "VIVO Dual Monitor Desk Mount",
+        "price": 39.99,
+        "date": "2022-05-13",
+        "soldId": 10,
+        "type":"accessory"
+      },
+      {
+        "id":91,
+        "item": "SanDisk iXpand Flash Drive",
+        "price": 59.99,
+        "date": "2022-05-13",
+        "soldId": 12,
+        "type":""
+      },
+      {
+        "id":92,
+        "item": "Acer SB220Q bi",
+        "price": 99.99,
+        "date": "2022-05-14",
+        "soldId": 5,
+        "type":"monitor"
+      },
+      {
+        "id":93,
+        "item": "Acer Nitro 5 AN515-57-79TD Gaming Laptop",
+        "price": 789.99,
+        "date": "2022-05-14",
+        "soldId": 6,
+        "type":"laptop"
+      },
+      {
+        "id":94,
+        "item": "MSI Clutch GM20 Elite Gaming Mouse",
+        "price": 24.99,
+        "date": "2022-05-14",
+        "soldId": 13,
+        "type":"accessory"
+      },
+      {
+        "id":95,
+        "item": "Logitech MK345 Wireless Keyboard",
+        "price": 14.99,
+        "date": "2022-05-14",
+        "soldId": 6,
+        "type":"accessory"
+      },
+
+
+
+
+
+      {
+        "id":96,
+        "item": "Apple Lightning to USB Cable",
+        "price": 4,
+        "date": "2022-05-15",
+        "soldId": 3,
+        "type":"accessory"
+      },
+      {
+        "id":97,
+        "item": "WD 5TB External Hard Drive",
+        "price": 104.99,
+        "date": "2022-05-15",
+        "soldId": 5,
+        "type":"storage"
+      },
+      {
+        "id":98,
+        "item": "SanDisk 128GB microSDXC-Card",
+        "price": 19.83,
+        "date": "2022-05-15",
+        "soldId": 8,
+        "type":"accessory"
+      },
+      {
+        "id":99,
+        "item": "Lenovo IdeaPad 3 11 Chromebook Laptop",
+        "price": 109.70,
+        "date": "2022-05-15",
+        "soldId": 4,
+        "type":"laptop"
+      },
+      {
+        "id":100,
+        "item": "AOC G2490VX",
+        "price": 139.99,
+        "date": "2022-05-15",
+        "soldId": 10,
+        "type":"monitor"
+      },
+      {
+        "id":101,
+        "item": "SanDisk Dual Drive USB",
+        "price": 17.50,
+        "date": "2022-05-15",
+        "soldId": 10,
+        "type":"storage"
       }
+
 ]
   

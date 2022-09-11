@@ -1,19 +1,123 @@
 [
     {
       "id":1,
-      "sale": 3402,
+      "sale": 2077.6,
       "date": "2022-05-01",      
-      "howMany":18,
+      "howMany":8,
       "profit": 135,
       "expenses": 12
     },
     {
-        "id":1,
-        "sale": 1442,
+        "id":2,
+        "sale": 714.47,
         "date": "2022-05-02",      
-        "howMany":8,
+        "howMany":4,
+        "profit": 34,
+        "expenses": 3
+      },
+      {
+        "id":3,
+        "sale": 724.61,
+        "date": "2022-05-03",      
+        "howMany":6,
         "profit": 44,
-        "expenses": 6
+        "expenses": 5
+      },
+      {
+        "id":4,
+        "sale": 2459.76,
+        "date": "2022-05-04",      
+        "howMany":12,
+        "profit": 144,
+        "expenses": 23
+      },
+      {
+        "id":5,
+        "sale": 254.69,
+        "date": "2022-05-05",
+        "howMany":3,
+        "profit": 8,
+        "expenses": 2
+      },
+      {
+        "id":6,
+        "sale": 1746.03,
+        "date": "2022-05-06",
+        "howMany":7,
+        "profit": 38,
+        "expenses": 7
+      },
+      {
+        "id":7,
+        "sale": 1565.22,
+        "date": "2022-05-07",
+        "howMany":5,
+        "profit": 41,
+        "expenses": 8
+      },
+      {
+        "id":8,
+        "sale": 1497.43,
+        "date": "2022-05-08",
+        "howMany":15,
+        "profit": 35,
+        "expenses": 8
+      },
+      {
+        "id":9,
+        "sale": 323.98,
+        "date": "2022-05-09",
+        "howMany":2,
+        "profit": 14,
+        "expenses": 2
+      },
+      {
+        "id":10,
+        "sale": 682.17,
+        "date": "2022-05-10",
+        "howMany":6,
+        "profit": 40,
+        "expenses": 12
+      },
+      {
+        "id":11,
+        "sale": 929.26,
+        "date": "2022-05-11",
+        "howMany":10,
+        "profit": 32,
+        "expenses": 10
+      },
+      {
+        "id":11,
+        "sale": 357.95,
+        "date": "2022-05-12",
+        "howMany":5,
+        "profit": 19,
+        "expenses": 5
+      },
+      {
+        "id":12,
+        "sale": 1225.94,
+        "date": "2022-05-13",
+        "howMany":9,
+        "profit": 52,
+        "expenses": 15
+      },
+      {
+        "id":13,
+        "sale": 929.96,
+        "date": "2022-05-14",
+        "howMany":4,
+        "profit": 23,
+        "expenses": 7
+      },
+      {
+        "id":14,
+        "sale": 396.01,
+        "date": "2022-05-15",
+        "howMany":6,
+        "profit": 12,
+        "expenses": 3
       }
 ]
   

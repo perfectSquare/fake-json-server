@@ -67,7 +67,7 @@
       },   
       {
         "id":7,
-        "price": 0,
+        "price": 689,
         "name": "ASUS ROG Strix Scar 15 (2022) Gaming Laptop",
         "description": "15.6 inches 300Hz IPS FHD Display, NVIDIA GeForce RTX 3070 Ti,Intel Core i9 12900H, 16GB DDR5, 1TB SSD, Per-Key RGB Keyboard, Windows 11 Home, G533ZW-AS94",
         "manufacturer": "ASUS",
@@ -79,7 +79,7 @@
       {
         "id":8,
         "price": 330,
-        "name": "Dell Inspiron 3583 Laptop ",
+        "name": "Dell Inspiron 3583 Laptop",
         "description": "128GB SSD – 4GB DDR4 – 1.6GHz - Intel UHD Graphics 610 - Windows 10 Home - Inspiron 15 3000 Series - New",
         "manufacturer": "Dell",
         "image":"/assets/dashboard/laptops/8.jpg",
