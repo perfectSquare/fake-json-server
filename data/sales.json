@@ -5,8 +5,7 @@
       "date": "2022-05-01",      
       "howMany":8,
       "profit": 135,
-      "expenses": 12,
-      "h":"h-20"
+      "expenses": 12      
     },
     {
         "id":2,
@@ -14,8 +13,7 @@
         "date": "2022-05-02",      
         "howMany":4,
         "profit": 34,
-        "expenses": 3,
-        "h":"h-7.5"
+        "expenses": 3        
       },
       {
         "id":3,
@@ -23,8 +21,7 @@
         "date": "2022-05-03",      
         "howMany":6,
         "profit": 44,
-        "expenses": 5,
-        "h":"h-7"
+        "expenses": 5        
       },
       {
         "id":4,
@@ -32,8 +29,7 @@
         "date": "2022-05-04",      
         "howMany":12,
         "profit": 144,
-        "expenses": 23,
-        "h":"h-24"
+        "expenses": 23        
       },
       {
         "id":5,
@@ -41,8 +37,7 @@
         "date": "2022-05-05",
         "howMany":3,
         "profit": 8,
-        "expenses": 2,
-        "h":"h-2.5"
+        "expenses": 2        
       },
       {
         "id":6,
@@ -50,8 +45,7 @@
         "date": "2022-05-06",
         "howMany":7,
         "profit": 38,
-        "expenses": 7,
-        "h":"h-17.5"
+        "expenses": 7        
       },
       {
         "id":7,
@@ -59,8 +53,7 @@
         "date": "2022-05-07",
         "howMany":5,
         "profit": 41,
-        "expenses": 8,
-        "h":"h-15.5"
+        "expenses": 8        
       },
       {
         "id":8,
@@ -68,8 +61,7 @@
         "date": "2022-05-08",
         "howMany":15,
         "profit": 35,
-        "expenses": 8,
-        "h":"h-15"
+        "expenses": 8        
       },
       {
         "id":9,
@@ -77,8 +69,7 @@
         "date": "2022-05-09",
         "howMany":2,
         "profit": 14,
-        "expenses": 2,
-        "h":"h-3.5"
+        "expenses": 2        
       },
       {
         "id":10,
@@ -86,8 +77,7 @@
         "date": "2022-05-10",
         "howMany":6,
         "profit": 40,
-        "expenses": 12,
-        "h":"h-6.5"
+        "expenses": 12        
       },
       {
         "id":11,
@@ -95,8 +85,7 @@
         "date": "2022-05-11",
         "howMany":10,
         "profit": 32,
-        "expenses": 10,
-        "h":"h-9.5"
+        "expenses": 10        
       },
       {
         "id":11,
@@ -104,8 +93,7 @@
         "date": "2022-05-12",
         "howMany":5,
         "profit": 19,
-        "expenses": 5,
-        "h":"h-3.5"
+        "expenses": 5        
       },
       {
         "id":12,
@@ -113,8 +101,7 @@
         "date": "2022-05-13",
         "howMany":9,
         "profit": 52,
-        "expenses": 15,
-        "h":"h-12"
+        "expenses": 15        
       },
       {
         "id":13,
@@ -122,8 +109,7 @@
         "date": "2022-05-14",
         "howMany":4,
         "profit": 23,
-        "expenses": 7,
-        "h":"h-9.5"
+        "expenses": 7        
       },
       {
         "id":14,
@@ -131,8 +117,7 @@
         "date": "2022-05-15",
         "howMany":6,
         "profit": 12,
-        "expenses": 3,
-        "h":"h-4"
+        "expenses": 3        
       }
 ]
   
