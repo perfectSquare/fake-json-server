@@ -1,39 +1,39 @@
 [
     {
       "id":1,
-      "activity": "test",
-      "date": "",
-      "priority": ""
+      "activity": "Meeting with team members",
+      "date": "Oct 10 2022",
+      "priority": "high"
     },
     {
         "id":2,
-        "activity": "",
-        "date": "",
-        "priority": ""
+        "activity": "Vist to all houses",
+        "date": "Nov 03 2023",
+        "priority": "low"
       },
       {
         "id":3,
-        "activity": "",
-        "date": "",
-        "priority": ""
+        "activity": "Group discussion",
+        "date": "Nov 03 2023",
+        "priority": "medium"
       },
       {
         "id":4,
-        "activity": "",
-        "date": "",
-        "priority": ""
+        "activity": "Announce new rules",
+        "date": "Nov 08 2023",
+        "priority": "high"
       },
       {
         "id":5,
-        "activity": "",
-        "date": "",
-        "priority": ""
+        "activity": "Check designs",
+        "date": "Nov 09 2023",
+        "priority": "medium"
       },
       {
         "id":6,
-        "activity": "",
-        "date": "",
-        "priority": ""
+        "activity": "Deploy to server",
+        "date": "Nov 12 2023",
+        "priority": "high"
       }
               
 ]
