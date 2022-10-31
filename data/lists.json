@@ -54,5 +54,41 @@
         "activity": "unit testing",        
         "endDate": "Nov 12 2023",
         "completed": true
-      }              
+      },
+      {
+        "id":9,
+        "userID":2,
+        "activity": "modulation",
+        "endDate": "Nov 22 2023",
+        "completed": false
+      },
+      {
+        "id":10,
+        "userID":3,
+        "activity": "Meeting with team members",
+        "endDate": "Nov 01 2023",
+        "completed": false
+      },
+      {
+        "id":11,
+        "userID":3,
+        "activity": "code testing",
+        "endDate": "Nov 12 2023",
+        "completed": false
+      },
+      {
+        "id":12,
+        "userID":3,
+        "activity": "outside visit",
+        "endDate": "Nov 14 2023",
+        "completed": false
+      },
+      {
+        "id":13,
+        "userID":3,
+        "activity": "present final report",
+        "endDate": "Nov 24 2023",
+        "completed": false
+      }
 ]
+
