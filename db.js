@@ -5,6 +5,7 @@ const storage = require("./data/storage");
 const sold = require("./data/sold");
 const sales = require("./data/sales");
 const list = require("./data/lists");
+const users = require("./data/users");
 
 module.exports = {
   accessories,
@@ -13,5 +14,6 @@ module.exports = {
   storage,
   sold,
   sales,
-  list
+  list,
+  users
 }
