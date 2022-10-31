@@ -2,38 +2,44 @@
     {
       "id":1,
       "activity": "Meeting with team members",
-      "date": "Oct 10 2022",
-      "priority": "high"
+      "description": "Oct 10 2022",
+      "endDate": "Nov 01 2023",
+      "completed": true
     },
     {
         "id":2,
         "activity": "Vist to all houses",
-        "date": "Nov 03 2023",
-        "priority": "low"
+        "description": "Nov 03 2023",
+        "endDate": "Nov 03 2023",
+        "completed": false
       },
       {
         "id":3,
         "activity": "Group discussion",
-        "date": "Nov 03 2023",
-        "priority": "medium"
+        "description": "Nov 10 2023",
+        "endDate": "Nov 12 2023",
+        "completed": false
       },
       {
         "id":4,
         "activity": "Announce new rules",
-        "date": "Nov 08 2023",
-        "priority": "high"
+        "description": "Nov 11 2023",
+        "endDate": "Nov 17 2023",
+        "completed": true
       },
       {
         "id":5,
         "activity": "Check designs",
-        "date": "Nov 09 2023",
-        "priority": "medium"
+        "description": "Nov 09 2023",
+        "endDate": "Nov 21 2023",
+        "completed": false
       },
       {
         "id":6,
         "activity": "Deploy to server",
-        "date": "Nov 12 2023",
-        "priority": "high"
+        "description": "Nov 12 2023",
+        "endDate": "Nov 28 2023",
+        "completed": true
       }
               
 ]
