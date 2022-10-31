@@ -47,5 +47,12 @@
         "activity": "code testing",        
         "endDate": "Nov 02 2023",
         "completed": false
+      },
+      {
+        "id":8,
+        "userID":2,
+        "activity": "unit testing",        
+        "endDate": "Nov 12 2023",
+        "completed": true
       }              
 ]
