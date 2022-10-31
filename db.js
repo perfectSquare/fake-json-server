@@ -4,6 +4,7 @@ const monitors = require("./data/monitors");
 const storage = require("./data/storage");
 const sold = require("./data/sold");
 const sales = require("./data/sales");
+const list = require("./data/lists");
 
 module.exports = {
   accessories,
@@ -11,5 +12,6 @@ module.exports = {
   monitors,
   storage,
   sold,
-  sales
+  sales,
+  list
 }
