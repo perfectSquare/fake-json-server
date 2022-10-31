@@ -1,43 +1,37 @@
 [
     {
       "id":1,
-      "activity": "Meeting with team members",
-      "description": "As Company ....",
+      "activity": "Meeting with team members",      
       "endDate": "Nov 01 2023",
       "completed": true
     },
     {
         "id":2,
-        "activity": "Vist to all houses",
-        "description": "As Company ....",
+        "activity": "Vist to all houses",        
         "endDate": "Nov 03 2023",
         "completed": false
       },
       {
         "id":3,
-        "activity": "Group discussion",
-        "description": "As Company ....",
+        "activity": "Group discussion",        
         "endDate": "Nov 12 2023",
         "completed": false
       },
       {
         "id":4,
-        "activity": "Announce new rules",
-        "description": "As Company ....",
+        "activity": "Announce new rules",        
         "endDate": "Nov 17 2023",
         "completed": true
       },
       {
         "id":5,
-        "activity": "Check designs",
-        "description": "As Company ....",
+        "activity": "Check designs",        
         "endDate": "Nov 21 2023",
         "completed": false
       },
       {
         "id":6,
-        "activity": "Deploy to server",
-        "description": "As Company ....",
+        "activity": "Deploy to server",        
         "endDate": "Nov 28 2023",
         "completed": true
       }
