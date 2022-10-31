@@ -40,5 +40,12 @@
         "activity": "Deploy to server",        
         "endDate": "Nov 28 2023",
         "completed": true
+      },
+      {
+        "id":7,
+        "userID":2,
+        "activity": "code testing",        
+        "endDate": "Nov 02 2023",
+        "completed": false
       }              
 ]
