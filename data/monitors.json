@@ -1,6 +1,7 @@
 [
     {
       "id":1,
+      "type": "monitors", 
       "price": 579.99,
       "name": "ViewSonic VG3456 34 Inch",
       "description": "UltraWide WQHD 1440p Monitor with Ergonomics Design USB Type C Docking Built-In Gigabit Ethernet for Home and Office",
@@ -12,6 +13,7 @@
     },  
     {
         "id":2,
+        "type": "monitors", 
         "price": 119.99,
         "name": "Acer R240HY bidx",
         "description": "23.8 inches Full HD 1920 x 1080 IPS Zero Frame Home Office Monitor - 178° Wide View Angle - 16.7M - NTSC 72% Color Gamut - Low Blue Light - Acer Vision Care - Tilt Compatible - VGA HDMI DVI",
@@ -23,6 +25,7 @@
       },  
       {
         "id":3,
+        "type": "monitors", 
         "price": 199.99,
         "name": "Acer EZ321Q",
         "description": " 31.5 inches Full HD (1920 x 1080) IPS Monitor (HDMI & VGA port), White",
@@ -34,6 +37,7 @@
       },  
       {
         "id":4,
+        "type": "monitors", 
         "price": 208.99,
         "name": "HP 24mh FHD Monitor",
         "description": "Computer Monitor with 23.8-Inch IPS Display (1080p) - Built-In Speakers and VESA Mounting - Height/Tilt Adjustment for Ergonomic Viewing - HDMI and DisplayPort - (1D0J9AA#ABA)",
@@ -45,6 +49,7 @@
       },  
       {
         "id":5,
+        "type": "monitors", 
         "price": 99.99,
         "name": "Acer SB220Q bi",
         "description": "21.5 Inches Full HD (1920 x 1080) IPS Ultra-Thin Zero Frame Monitor (HDMI & VGA Port), Black",
@@ -56,6 +61,7 @@
       },  
       {
         "id":6,
+        "type": "monitors", 
         "price": 216.76,
         "name": "HP M27ha FHD Monitor-Full HD Monitor",
         "description": "(1920 x 1080p)- IPS Panel and Built-in Audio-VESA Compatible 27-inch Monitor Designed for Comfortable Viewing with Height and Pivot Adjustment-(22H94AA#ABA) black",
@@ -67,6 +73,7 @@
       },  
       {
         "id":7,
+        "type": "monitors", 
         "price": 149.97,
         "name": "Sceptre 27-Inch FHD",
         "description": " LED Gaming Monitor 75Hz 2X HDMI VGA Build-in Speakers, Ultra Slim Metal Black",
@@ -78,6 +85,7 @@
       },  
       {
         "id":8,
+        "type": "monitors", 
         "price": 179.99,
         "name": "BenQ MOBIUZ EX240N",
         "description": "24 inches FHD HDRi Gaming Monitor, 1920x1080, 165Hz (Supports 144Hz), 1ms MPRT, AMD FreeSync Premium, Built-in Speakers, Eye-Care, Bezel-Less",
@@ -89,6 +97,7 @@
       },  
       {
         "id":9,
+        "type": "monitors", 
         "price": 119.19,
         "name": "Sceptre Curved",
         "description": "27 inches Gaming Monitor R1500 98% sRGB HDMI VGA 75Hz Build-in Speakers, Blue Light Shift Machine Black (C278W-1920RN Series)",
@@ -100,6 +109,7 @@
       },  
       {
         "id":10,
+        "type": "monitors", 
         "price": 139.99,
         "name": "AOC G2490VX",
         "description": "24 inches Class Frameless Gaming Monitor, FHD 1920x1080, 1ms 144Hz, FreeSync Premium, 126% sRGB / 93% DCI-P3, 3Yr Re-Spawned Zero Dead Pixels, Black",
@@ -111,6 +121,7 @@
       },  
       {
         "id":11,
+        "type": "monitors", 
         "price": 249.99,
         "name": "LG 32ML600M-B",
         "description": "32 inches Inch Full HD IPS LED Monitor with HDR 10 - Black",
@@ -122,6 +133,7 @@
       },  
       {
         "id":12,
+        "type": "monitors", 
         "price": 161.09,
         "name": "Sceptre Curved",
         "description": "27 inches 75Hz LED Monitor HDMI VGA Build-In Speakers, EDGE-LESS Metal Black 2019 (C275W-1920RN)",
@@ -133,6 +145,7 @@
       },  
       {
         "id":13,
+        "type": "monitors", 
         "price": 199.70,
         "name": "ViewSonic 32 Inch",
         "description": "1080p Widescreen IPS Monitor with Ultra-Thin Bezels, Screen Split Capability HDMI and DisplayPort (VX3276-MHD)",
@@ -144,6 +157,7 @@
       },  
       {
         "id":14,
+        "type": "monitors", 
         "price": 219.99,
         "name": "SAMSUNG LC27F398FWNXZA",
         "description": "SAMSUNG C27F398 27 Inch Curved LED Monitor",
@@ -155,6 +169,7 @@
       },  
       {
         "id":15,
+        "type": "monitors", 
         "price": 119.99,
         "name": "BenQ GW2283 Eye Care",
         "description": "22 inch IPS 1080p Monitor | Optimized for Home & Office with Adaptive Brightness Technology",

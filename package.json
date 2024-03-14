@@ -4,10 +4,13 @@
   "description": "Simple json database to deploy to the host of your choice",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
-  },  
+    "start": "nodemon server.js"
+  },
   "author": "Naeem",
   "dependencies": {
     "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
