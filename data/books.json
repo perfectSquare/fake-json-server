@@ -19,5 +19,19 @@
         "author": "Christopher Clark",
         "category": "History",
         "image": "https://fivebooks.com/images/k2E6EpEdHdfQqqqY/rs:auto:144:0:1/sh:0.5/plain/fb/books/a/52/BC_0525575200.jpg"
+      },
+      {
+        "id":4,
+        "title": "Think Like a Programmer",
+        "author": "V Anton Spraul",
+        "category": "Coding",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81vuUsOPM2L._AC_UL232_SR232,232_.jpg"
+      },
+      {
+        "id":5,
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "category": "Coding",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71f743sOPoL._AC_UL232_SR232,232_.jpg"
       }
   ]
