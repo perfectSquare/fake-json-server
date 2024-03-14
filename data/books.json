@@ -1,0 +1,23 @@
+[
+    {
+      "id":1,
+      "title": "The Revolutionary Temper",
+      "author": "Robert Darnton",
+      "category": "History",
+      "image": "https://fivebooks.com/images/Hup28Qj87OkA36ez/rs:auto:144:0:1/sh:0.5/plain/fb/books/8/04/BC_1324035587.jpg"
+    },
+    {
+        "id":2,
+        "title": "Courting India",
+        "author": "Nandini Das",
+        "category": "History",
+        "image": "https://fivebooks.com/images/9cgCsYN5jwGhbrOT/rs:auto:144:0:1/sh:0.5/plain/fb/books/9/fd/BC_163936322X.jpg"
+      },
+      {
+        "id":3,
+        "title": "Revolutionary Spring",
+        "author": "Christopher Clark",
+        "category": "History",
+        "image": "https://fivebooks.com/images/k2E6EpEdHdfQqqqY/rs:auto:144:0:1/sh:0.5/plain/fb/books/a/52/BC_0525575200.jpg"
+      }
+  ]
