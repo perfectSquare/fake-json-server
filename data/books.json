@@ -40,5 +40,19 @@
         "author": "Chris",
         "category": "Coding",
         "image": "https://m.media-amazon.com/images/I/81ycHtBjMWL._AC_UL320_.jpg"
+      },
+      {
+        "id":6,
+        "title": "تاریخ و تہزیبِ عالم",
+        "author": "A Manfreid",
+        "category": "History",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcsLYf_hXtZy9tL-iv5VLVPRsTDGjw9fxhwQ&usqp=CAU"
+      },
+      {
+        "id":6,
+        "title": "Vue JS",
+        "author": "Jhon Young",
+        "category": "Coding",
+        "image": "https://m.media-amazon.com/images/I/41mOM8qIELS._SX342_SY445_.jpg"
       }
   ]
